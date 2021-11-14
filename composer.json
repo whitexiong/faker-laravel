@@ -1,0 +1,11 @@
+{
+    "name": "whitexiong/faker-laravel",
+    "description": "This faker laravel .",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Whitexiong\\FakerLaravel\\": "src/"
+        }
+    },
+    "require": {}
+}
